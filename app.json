@@ -1,0 +1,17 @@
+{
+    "name": "rexpo-cross-test-01",
+    "displayName": "rexpo-cross-test-01",
+    "expo": {
+        "entryPoint": "./index.js",
+        "name": "rexpo-cross-test-01",
+        "slug": "rexpo-cross-test-01",
+        "version": "1.0.0",
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "web": {
+            "startUrl": "rohan/",
+            "themeColor": "#ff0000"
+        }
+    }
+}
